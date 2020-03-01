@@ -1,5 +1,6 @@
-# CSCI 3753 Spring 2018 - Programming Assignment #3
+# CSCI 3753 Spring 2018 - Programming Assignment - Paging Algorithm
 ## Virtual Memory Paging Strategies
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(based on previous CSCI-3753 assignment [6])
 
 ## 1. &nbsp;&nbsp;Introduction
 
@@ -214,7 +215,7 @@ The other 60% of your grade will be determined via your grading interview where 
 The starting code for this assignment is available on the Moodle and on _*github*_. If you would like practice using a version control system, consider forking the code from _*github*_. Using the _*github*_ code is not a requirement, but it will help to insure that you stay up to date with any updates or changes to the supplied codebase. It is also good practice for the kind of development one might expect to do in a professional environment. And since your _*github*_ code can be easily shared, it can be a good way to show off your coding skills to potential employers and other programmers.
 Github code may be forked from the project page listed below.
 
-  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; https://github.com/CSCI-KNOX/CSCI-3753-PA3.git
+  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; https://github.com/CSCI-KNOX/CSCI-3753-Paging.git
 
 
 ## 8.  &nbsp;&nbsp;Resources
@@ -232,3 +233,4 @@ You may wish to consult the man pages for the following items, as they will be u
 - [3] Stevens, Ted. Speech on Net Neutrality Bill. 2006. http://youtu.be/f99PcP0aFNE.
 - [4] Wikipedia. “State space (dynamical system)”. Wikipedia, The Free Encyclopedia. 2012. http://en.wikipedia.org/w/index.php?title=State_space_(dynamical_system)&oldid=478401148. Online; accessed 12-April-2012.
 - [5] Wikipedia. “Markov chain”. Wikipedia, The Free Encyclopedia. 2012. http:// en.wikipedia.org/w/index.php?title=Markov_chain&oldid=486910550. Online; accessed 12-April-2012.
+- [6] Spring 2012 - Programming Assignment 4 - Andy Sayler (3/6/12)
